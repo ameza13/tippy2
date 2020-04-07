@@ -15,6 +15,7 @@
 		7D33A1AD2439754500CB9849 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D33A1AB2439754500CB9849 /* LaunchScreen.storyboard */; };
 		7D33A1B82439754500CB9849 /* tippy2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D33A1B72439754500CB9849 /* tippy2Tests.swift */; };
 		7D33A1C32439754500CB9849 /* tippy2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D33A1C22439754500CB9849 /* tippy2UITests.swift */; };
+		7D33A1D12439A78400CB9849 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D33A1D02439A78400CB9849 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		7D33A1BE2439754500CB9849 /* tippy2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tippy2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D33A1C22439754500CB9849 /* tippy2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tippy2UITests.swift; sourceTree = "<group>"; };
 		7D33A1C42439754500CB9849 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D33A1D02439A78400CB9849 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				7D33A1A22439754300CB9849 /* SceneDelegate.swift */,
 				7D33A1A42439754300CB9849 /* ViewController.swift */,
 				7D33A1A62439754300CB9849 /* Main.storyboard */,
+				7D33A1D02439A78400CB9849 /* SettingsViewController.swift */,
 				7D33A1A92439754500CB9849 /* Assets.xcassets */,
 				7D33A1AB2439754500CB9849 /* LaunchScreen.storyboard */,
 				7D33A1AE2439754500CB9849 /* Info.plist */,
@@ -262,6 +265,7 @@
 				7D33A1A52439754300CB9849 /* ViewController.swift in Sources */,
 				7D33A1A12439754300CB9849 /* AppDelegate.swift in Sources */,
 				7D33A1A32439754300CB9849 /* SceneDelegate.swift in Sources */,
+				7D33A1D12439A78400CB9849 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
